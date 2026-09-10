@@ -40,3 +40,8 @@ API project/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+## Screenshot
+<img width="918" height="872" alt="Screenshot 2026-09-10 085008" src="https://github.com/user-attachments/assets/9ddf55ec-471d-41f7-b8cb-0b867679dc91" />
+<img width="983" height="842" alt="Screenshot 2026-09-10 084956" src="https://github.com/user-attachments/assets/104afbc1-9478-4d3c-8143-3085214dec75" />
+
