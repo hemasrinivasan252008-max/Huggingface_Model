@@ -29,7 +29,7 @@ The application:
 -  Hugging Face Access Token
 -  Visual Studio Code
 -  Hugging Face Inference API
-
+-  Streamlit
 ---
 
 ## 📂Project Structure
@@ -37,7 +37,6 @@ The application:
 ```text
 API project/
 │
-├── huggingface.py
-├── huggingfaceapp.py
+├── app.py
 ├── requirements.txt
 └── README.md
